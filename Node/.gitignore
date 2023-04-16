@@ -1,0 +1,4 @@
+*Aqui será ignorado os arquivos que eu especificar, neste caso foi a biblioteca modulos padrão do node
+*Quando acontecer "PULL" os arquivos ou pastas descritos aqui, não vão ser enviados
+
+node_modules
