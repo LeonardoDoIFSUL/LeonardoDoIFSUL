@@ -4,7 +4,7 @@ mas com valores diferentes, dependendo
 do que for passado na função.
 
 MAP pode ser usado em sequencia, usando diferentes funções para tratamento dos dados
-criando funções soltas que seram usadas juntas para incrementar os dados originais
+criando funções soltas que serão usadas juntas para incrementar os dados originais
 */
 
 const nums = [1,2,3,4,5]
